@@ -3,6 +3,8 @@
 <!--
 **harshadsatra/harshadsatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+I am a proficient Front-end web developer, with over 6 years of experience, and have an in-depth knowledge of various areas of developing, which includes HTML5, CSS3, Bootstrap Framework, JQuery/JavaScript, WordPress, Magento eCommerce and PHP Applications development, API’s. Along with this, I also has a basic knowledge of Android Development and Hardware and Networking. Have efficiency in Domain and Server management and other realms of website management.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
