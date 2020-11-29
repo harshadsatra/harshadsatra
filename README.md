@@ -4,7 +4,7 @@ I am a proficient Front-end web developer, with over 6 years of experience, and 
 
 <!--
 **harshadsatra/harshadsatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
 
 
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
