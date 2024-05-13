@@ -26,7 +26,7 @@ My passion for web development goes beyond aesthetics; I strive to create web ex
 </a>
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,md,css,sass,svg,ts,js,jquery,threejs,d3,p5js,py,php,wordpress,bootstrap,tailwind,postgres,firebase,mongodb,mysql,sqlite,graphql,planetscale,elasticsearch,express,angular,nodejs,vue,nuxtjs,pinia,react,nextjs,redis,aws,azure,gcp,gatsby,netlify,sentry,cloudflare,git,github,githubactions,gitlab,bitbucket,docker,codepen,linux,yarn,npm,pnpm,gradle,nginx,gulp,vite,webpack,postman,powershell,regex,remix,ubuntu,vercel,visualstudio,vscode,webflow,ai,ps,figma,xd&perline=18)](https://www.harshadsatra.in/)
+[![My Skills](https://skillicons.dev/icons?i=html,md,css,sass,svg,ts,js,jquery,threejs,d3,p5js,py,php,wordpress,bootstrap,tailwind,postgres,firebase,mongodb,mysql,sqlite,graphql,planetscale,elasticsearch,express,angular,nodejs,vue,nuxtjs,pinia,react,nextjs,redis,aws,azure,gcp,gatsby,netlify,sentry,cloudflare,git,github,githubactions,gitlab,bitbucket,docker,codepen,linux,yarn,npm,pnpm,gradle,nginx,gulp,vite,webpack,postman,powershell,regex,remix,ubuntu,vercel,visualstudio,vscode,webflow,ai,ps,figma,xd&perline=10)](https://www.harshadsatra.in/)
 
 ## 📬 Get in Touch
 - Connect with me on [Twitter](https://twitter.com/Harshadsatra)
