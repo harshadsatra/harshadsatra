@@ -9,7 +9,7 @@ My passion for web development goes beyond aesthetics; I strive to create web ex
 - 🔭 I'm currently working as a Frontend Software Developer at DocuX.
 - 📝 I write articles on my website [Harshad's Blog]([https://theenthusiast.dev](https://blog.harshadsatra.in/)).
 - 👯 I’m looking to collaborate on **Projects that gets me going**
-- 👨‍💻 All of my projects are available at [https://harshadsatra.in/projects]([https://harshadsatra.in/projects.html](https://www.harshadsatra.in/projects))
+- 👨‍💻 All of my projects, I have worked on at [https://harshadsatra.in/projects](https://www.harshadsatra.in/projects)
 - 🚀 Learning Full Stack Web Development
   - Exploring the ins and outs of Vue and Nuxt for dynamic front-end experiences.
   - Navigating through the world of Vue Router for seamless page transitions.
@@ -26,13 +26,13 @@ My passion for web development goes beyond aesthetics; I strive to create web ex
 </a>
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,aws,gcp,vercel,azure,vue,nuxtjs,react,nextjs,flutter&perline=4)](https://www.harshadsatra.in/)
+[![My Skills](https://skillicons.dev/icons?i=html,md,css,sass,svg,ts,js,jquery,threejs,d3,p5js,py,php,wordpress,bootstrap,tailwind,postgres,firebase,mongodb,mysql,sqlite,graphql,planetscale,elasticsearch,express,angular,nodejs,vue,nuxtjs,pinia,react,nextjs,redis,aws,azure,gcp,gatsby,netlify,sentry,cloudflare,git,github,githubactions,gitlab,bitbucket,docker,codepen,linux,yarn,npm,pnpm,gradle,nginx,gulp,vite,webpack,postman,powershell,regex,remix,ubuntu,vercel,visualstudio,vscode,webflow,ai,ps,figma,xd&perline=12)](https://www.harshadsatra.in/)
 
 ## 📬 Get in Touch
 - Connect with me on [Twitter](https://twitter.com/Harshadsatra)
 - Connect with me on [linkedin](https://www.linkedin.com/in/harshadsatra/)
 - Check out my [Website](https://www.harshadsatra.in/)
-- Read more of my articles on [Harshad's Blog]([https://theenthusiast.dev](https://blog.harshadsatra.in/))
+- Read more of my articles on [Harshad's Blog](https://blog.harshadsatra.in/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
