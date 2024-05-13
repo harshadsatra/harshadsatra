@@ -25,7 +25,7 @@ My passion for web development goes beyond aesthetics; I strive to create web ex
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshadsatra&theme=vue-dark&layout=compact&langs_count=8&card_width=320&hide_border=true&count_private=true" />
 </a>
 
-## Tech Stack
+## 👨🏼‍💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,md,css,sass,svg,ts,js,jquery,threejs,d3,p5js,py,php,laravel,wordpress,bootstrap,tailwind,postgres,firebase,mongodb,mysql,sqlite,graphql,planetscale,elasticsearch,express,angular,nodejs,vue,nuxtjs,pinia,react,nextjs,redis,aws,azure,gcp,gatsby,netlify,sentry,cloudflare,git,github,githubactions,gitlab,bitbucket,docker,codepen,linux,yarn,npm,pnpm,gradle,nginx,gulp,vite,webpack,postman,powershell,regex,remix,ubuntu,vercel,visualstudio,vscode,webflow,ai,ps,figma,xd&perline=10)](https://www.harshadsatra.in/)
 
 ## 📬 Get in Touch
