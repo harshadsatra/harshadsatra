@@ -6,7 +6,7 @@ I have been working as a Frontend Software Developer at DocuX for over three yea
 My passion for web development goes beyond aesthetics; I strive to create web experiences that are visually captivating, functionally seamless, SEO-friendly, fully accessible, and mobile-responsive. I have a strong background in UI/UX design, application programming interfaces, and web optimization, and I constantly explore new trends and technologies to enhance user satisfaction and engagement. I enjoy working with diverse and dynamic teams, and I'm always eager to learn from others and share my insights.
 
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<harshadsatra>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 - 🔭 I'm currently working as a Frontend Software Developer at DocuX.
