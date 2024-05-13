@@ -9,7 +9,7 @@ My passion for web development goes beyond aesthetics; I strive to create web ex
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=harshadsatra&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshadsatra&theme=vue-dark&ayout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshadsatra&theme=vue-dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshadsatra&show_icons=true&locale=en&layout=compact" alt="harshadsatra" />
