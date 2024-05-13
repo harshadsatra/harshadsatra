@@ -18,10 +18,10 @@ My passion for web development goes beyond aesthetics; I strive to create web ex
   - Diving into Mongo DB for efficient and scalable database management.
 
 ## 🎖 github stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/harshadsatra">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=harshadsatra&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/harshadsatra">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshadsatra&theme=vue-dark&layout=compact&langs_count=8&card_width=320&hide_border=true&count_private=true" />
 </a>
 
