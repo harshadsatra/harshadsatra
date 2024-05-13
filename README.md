@@ -19,7 +19,7 @@ My passion for web development goes beyond aesthetics; I strive to create web ex
 
 ## 🎖 github stats
 <a href="https://github.com/harshadsatra">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=harshadsatra&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=harshadsatra&theme=vue-dark&show_icons=true&rank_icon=percentile&hide_border=true&count_private=true" />
 </a>
 <a href="https://github.com/harshadsatra">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshadsatra&theme=vue-dark&layout=compact&langs_count=8&card_width=320&hide_border=true&count_private=true" />
