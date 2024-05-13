@@ -6,10 +6,10 @@ I have been working as a Frontend Software Developer at DocuX for over three yea
 My passion for web development goes beyond aesthetics; I strive to create web experiences that are visually captivating, functionally seamless, SEO-friendly, fully accessible, and mobile-responsive. I have a strong background in UI/UX design, application programming interfaces, and web optimization, and I constantly explore new trends and technologies to enhance user satisfaction and engagement. I enjoy working with diverse and dynamic teams, and I'm always eager to learn from others and share my insights.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=harshadsatra" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=harshadsatra&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshadsatra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshadsatra&theme=vue-dark&ayout=compact&langs_count=8&card_width=320" />
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshadsatra&show_icons=true&locale=en&layout=compact" alt="harshadsatra" />
